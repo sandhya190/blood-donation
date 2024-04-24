@@ -1,0 +1,26 @@
+.main-container{
+    background-image: url("https://img.pikbest.com/wp/202344/watercolor-pastel-colors-colored-splash-background-with-a-pink-haze-and-cloud-like-texture-pattern_9900487.jpg!bw700");
+    background-size: cover;
+   
+    padding: 40px;
+    font-family: "caveat";
+}
+.paragraph{
+    color: royalblue;
+    font-size: 18px;
+    padding: 20px;
+}
+.main{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.heading2{
+    color: 	#FFFDD0;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.a{
+    color: black;
+    font-size: 18px;
+    
+}
