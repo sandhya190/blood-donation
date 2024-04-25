@@ -44,7 +44,7 @@
 .book{
     font-size:35px;
     margin-left:300px;
-    margin-top:40px;
+    margin-top:10px;
     color:darkcyan;
 }
 .donate{
@@ -60,7 +60,7 @@
     width:500px;
     border-radius:50px;
    margin-left:400px;
-   margin-top:40px;
+   margin-top:10px;
 }
 .heading2{
     text-align:left;
