@@ -1,14 +1,14 @@
 .a{
     border:10px;
-    width: 950px;
+    width: 1200px;
     border-color: red;
     border-style: solid;
     
 }
 .b{
-    width:95vw;
+    width:1150;
     height:60vh;
-    padding:20px;
+    padding:15px;
     margin-right: 10px;
     margin-left: 10px;
 
